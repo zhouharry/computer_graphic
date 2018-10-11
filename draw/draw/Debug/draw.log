@@ -1,0 +1,16 @@
+﻿  draw.c
+c:\users\周羿均\desktop\範例程式01\draw.c(109): warning C4244: '函式': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\周羿均\desktop\範例程式01\draw.c(129): warning C4244: '函式': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\周羿均\desktop\範例程式01\draw.c(154): warning C4244: '函式': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\周羿均\desktop\範例程式01\draw.c(163): warning C4244: '函式': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\周羿均\desktop\範例程式01\draw.c(169): warning C4244: '函式': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\周羿均\desktop\範例程式01\draw.c(170): warning C4244: '函式': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\周羿均\desktop\範例程式01\draw.c(183): warning C4244: '函式': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\周羿均\desktop\範例程式01\draw.c(184): warning C4244: '函式': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\周羿均\desktop\範例程式01\draw.c(218): warning C4244: '函式': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\周羿均\desktop\範例程式01\draw.c(219): warning C4244: '函式': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\周羿均\desktop\範例程式01\draw.c(349): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\周羿均\desktop\範例程式01\draw.c(350): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  draw.vcxproj -> C:\Users\周羿均\Desktop\範例程式01\draw\Debug\draw.exe
+  draw.vcxproj -> C:\Users\周羿均\Desktop\範例程式01\draw\Debug\draw.pdb (Partial PDB)
+  已複製 0 個檔案
